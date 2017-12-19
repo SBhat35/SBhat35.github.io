@@ -265,7 +265,7 @@ a {
       /* Override any img styles to ensure Emojis are displayed inline */
       margin: 0px !important;
       display: inline !important;
-      border: 1px solid $primary-color !important;
+      border: 1px solid $dark !important;
     }
 
     /* Added in { Personal } */
@@ -436,12 +436,12 @@ body {
  }
 
 .ok-btn {
-  background-color: $primary-color;
+  background-color: $dark;
   color: $secondary-color;
 }
 
  /* END Style for swipe instruction section */
 
 .fourofour {
-  border: 1px solid $primary-color !important;
+  border: 1px solid $dark !important;
 }
