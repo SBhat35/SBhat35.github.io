@@ -203,14 +203,23 @@ events:
 ##########
 
 skills:
-  
-  - software/other: "Git"
-    language: "C++"
-  - software/other: "Google Cloud Platform"
-   language: "Java"
-  - software/other: "Xcode"
-  language: "HTML, CSS, Javascript"
-  language: "Swift (Working Proficiency)"
+  - software: "XCODE"
+    language: "JAVA"
+  - software: "UNITY"
+    language: "SWIFT"
+  - software: "MAYA"
+    language: "PYTHON"
+  - software: "ANDROID STUDIO"
+    language: "HTML"
+  - software: "PHOTOSHOP"
+    language: "CSS"
+  # - software/other: "Git"
+  #   language: "C++"
+  # - software/other: "Google Cloud Platform"
+  #   language: "Java"
+  # - software/other: "Xcode"
+  # language: "HTML, CSS, Javascript"
+  # language: "Swift (Working Proficiency)"
 
 ###########
 # Contact #
