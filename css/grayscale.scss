@@ -131,7 +131,7 @@ a {
             &.active {
                 outline: none;
                 a {
-                    background-color: rgba($font-color, 0.3);
+                    background-color: rgba($light, 0.3);
                     &:hover {
                         color: $navbar-color;
                     }
@@ -244,7 +244,7 @@ a {
         max-width: 100%;
         height: auto;
         margin: 0 auto;
-        border: 1px solid $font-color;
+        border: 1px solid $light;
     }
     /* Added in { Personal } */
     ul,
