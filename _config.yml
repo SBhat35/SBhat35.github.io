@@ -47,9 +47,9 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
- black-favicon: "/img/black-lab-glass.icon"
+ # black-favicon: "/img/black-lab-glass.icon"
 
- background-img: "../img/intro-bg.jpg"
+ # background-img: "../img/intro-bg.jpg"
 
 
 ##########
@@ -174,7 +174,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 ############
 
 events:
-  - image: "/img/timeline/Google.png"
+  # - image: "/img/timeline/Google.png"
     organization: "Google"
     date: "November 2017 - Present"
     role: "Google Student Innovator: Google Cloud Platform"
@@ -182,7 +182,7 @@ events:
     desct: "uyguyg"
 
 
-  - image: "/img/timeline/ON.png"
+  # - image: "/img/timeline/ON.png"
     organization: "Open Networking Lab"
     date: "May 2017 - August 2017"
     role: "Software Engineering Intern"
@@ -194,7 +194,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/Vanderbiltstar.png"
+# timeline-img: "/img/timeline/Vanderbiltstar.png"
 
 
 
@@ -203,6 +203,7 @@ timeline-img: "/img/timeline/Vanderbiltstar.png"
 ##########
 
 skills:
+  
   - software/other: "Git"
     language: "C++"
   - software/other: "Google Cloud Platform"
