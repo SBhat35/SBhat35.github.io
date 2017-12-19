@@ -67,14 +67,14 @@ div {
 }
 
 a {
-    color: $secondary-color;
+    color: $primary;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
     &:hover,
     &:focus {
         text-decoration: none;
-        color: darken($secondary-color,20%);
+        color: darken($primary,20%);
     }
 }
 
