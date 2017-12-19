@@ -36,8 +36,8 @@ pages_list:
 # HTML Head #
 #############
 
-lang: "en"
 author: "Sachit Bhat"
+lang: "en"
 title: "Sachit Bhat"
 description: "Personal Website of Sachit Bhat"
 keywords: "sachit, bhat, vanderbilt"
@@ -47,9 +47,9 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-# black-favicon: "/img/black-lab-glass.ico"
+ black-favicon: "/img/black-lab-glass.ico"
 
-# background-img: "../img/intro-bg.jpg"
+ background-img: "../img/intro-bg.jpg"
 
 
 ##########
@@ -168,36 +168,13 @@ icon-96p: "/img/web-app/icon-96p.png"
 icon-144p: "/img/web-app/icon-144p.png"
 icon-192p: "/img/web-app/icon-192p.png"
 
-########
-# Blog #
-########
-
-
-post-preview-words: 96
-
-paginate: 5
-
-email-share: True
-fb-share: True
-twitter-share: True
-linkedin-share: True
-reddit-share: False
-google-plus-share: True
-tumblr-share: False
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
-
-disqus-shortname: "sachitbhat"
-
-syntax-highlight: True
 
 ############
 # Timeline #
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/Google.png"
     organization: "Google"
     date: "November 2017 - Present"
     role: "Google Student Innovator: Google Cloud Platform"
@@ -205,7 +182,7 @@ events:
     desct: "uyguyg"
 
 
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/ON.png"
     organization: "Open Networking Lab"
     date: "May 2017 - August 2017"
     role: "Software Engineering Intern"
@@ -217,13 +194,31 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/Vanderbiltstar.png"
+
+
+
+##########
+# Skills #
+##########
+
+skills:
+  - software/other: "Git"
+    language: "C++"
+  - software/other: "Google Cloud Platform"
+   language: "Java"
+  - software/other: "Xcode"
+  language: "HTML, CSS, Javascript"
+  language: "Swift (Working Proficiency)"
 
 ###########
 # Contact #
 ###########
 
 email: "sachit.s.bhat@vanderbilt.edu"
+
+
+
 
 ################
 # Author Blurb #
@@ -233,9 +228,9 @@ email: "sachit.s.bhat@vanderbilt.edu"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "As an undergraduate studying computer science and economics at Vanderbilt University, I have been exposed to many seemingly disparate topics and concepts, yet
-have developed a passion for both cross-disciplinary fields. I love diving into the inner workings of large scale projects and services, and will continue to learn and grow as a thinker."
-author_blurb_image: "/img/labtocat.png"
+# author_blurb: "As an undergraduate studying computer science and economics at Vanderbilt University, I have been exposed to many seemingly disparate topics and concepts, yet
+# have developed a passion for both cross-disciplinary fields. I love diving into the inner workings of large scale projects and services, and will continue to learn and grow as a thinker."
+# author_blurb_image: "/img/labtocat.png"
 
 ##################
 # Social Buttons #
@@ -245,23 +240,12 @@ social:
   - title: "linkedin"
     url: "https://linkedin.com/in/in/sachitbhat"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/da_bhatman"
   - title: "github"
     url: "https://github.com/SBhat35"
+  - title: "envelope-o"
+    url: "sachit.s.bhat@vanderbilt.edu"
 
-##########
-# Skills #
-##########
-
-skills:
-
-  language: "C++"
-  language: "Java"
-  language: "HTML, CSS, Javascript"
-  language: "Swift (Working Proficiency)"
-  -software/other: "Git"
-  -software/other: "Google Cloud Platform"
-  -software/other: "Xcode"
  
 
   
@@ -277,9 +261,9 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: sachitbhat
-keybase-in-social: True
-keybase-in-footer: True
+# keybase-username: sachitbhat
+# keybase-in-social: True
+# keybase-in-footer: True
 
 ################################################################################
 
