@@ -174,7 +174,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 ############
 
 events:
-   - image: "/img/timeline/Google.png"
+   - image: "/img/timeline/default.png"
     organization: "Google"
     date: "November 2017 - Present"
     role: "Google Student Innovator: Google Cloud Platform"
