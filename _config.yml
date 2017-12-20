@@ -174,27 +174,54 @@ icon-192p: "/img/web-app/icon-192p.png"
 ############
 
 events:
-  # - image: "/img/timeline/Google.png"
+   - image: "/img/timeline/Google.png"
     organization: "Google"
     date: "November 2017 - Present"
     role: "Google Student Innovator: Google Cloud Platform"
-    desc1: "BLah Blah"
-    desct: "uyguyg"
+    desc1: "Educate Vanderbilt community of Google Cloud Platform applications and services through tech
+          talks and smaller sessions"
+    desc2: "Gain extensive understanding of GCP products with insight of user needs"
+    desc3: "Collabrolate remotely with other student innovators to create new learning strategies and enhance project initiatives"
 
 
-  # - image: "/img/timeline/ON.png"
+ - image: "/img/timeline/ON.png"
     organization: "Open Networking Lab"
     date: "May 2017 - August 2017"
     role: "Software Engineering Intern"
     desc1: "Saving the neighborhood!"
     desc2: "Add stuff sach"
+    desc3: "hello"
+
+  - image: "/img/timeline/vandyapps.png"
+    organization: "VandyApps"
+    date: "August 2016 - Present"
+    role: "Secretary"
+    desc1: "Saving the neighborhood!"
+    desc2: "Add stuff sach"
+    desc3: "hello"
+
+  - image: "/img/timeline/vines.png"
+    organization: "Vanderbilt Innovation and Entrepreneurship Society"
+    date: "August 2017 - Present"
+    role: "Event Manager"
+    desc1: "Saving the neighborhood!"
+    desc2: "Add stuff sach"
+    desc3: "hello"
+
+  - image: "/img/timeline/IsisLogo 2.png"
+    organization: "Vanderbilt Institute for Software Integrated Systems"
+    date: "December 2016 - May 2017"
+    role: "Undergraduate Research Assistant"
+    desc1: "Saving the neighborhood!"
+    desc2: "Add stuff sach"
+    desc3: "hello"
 
 
 
 
 # First image of the Timeline
 
-# timeline-img: "/img/timeline/Vanderbiltstar.png"
+ timeline-img: "/img/timeline/Vanderbiltstar.png"
 
 
 
@@ -213,13 +240,13 @@ skills:
     language: "HTML"
   - software: "PHOTOSHOP"
     language: "CSS"
-  # - software/other: "Git"
-  #   language: "C++"
-  # - software/other: "Google Cloud Platform"
-  #   language: "Java"
-  # - software/other: "Xcode"
-  # language: "HTML, CSS, Javascript"
-  # language: "Swift (Working Proficiency)"
+  - software/other: "Git"
+    language: "C++"
+  - software/other: "Google Cloud Platform"
+    language: "Java"
+  - software/other: "Xcode"
+  language: "HTML, CSS, Javascript"
+  language: "Swift (Working Proficiency)"
 
 ###########
 # Contact #
