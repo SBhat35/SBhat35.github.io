@@ -1,22 +1,18 @@
 
 # Site settings
 
-# NB! Set your site's url, otherwise stuff will break :)
-
-url: "https://SBhat35.github.io"
+url: "https://mirabaliga.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
 # and NOT your user repository (https://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-#
-# NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: #/personal-jekyll-theme
+baseurl: 
 
-# Google tracking id
+# Google tracking id to track your visitors
 
-google-tracking-id: "UA-111421888-1"
+google-tracking-id: "UA-74057702-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -36,35 +32,26 @@ pages_list:
 # HTML Head #
 #############
 
-author: "Sachit Bhat"
+author: "Mira Baliga"
 lang: "en"
-title: "Sachit Bhat"
-description: "Sachit Bhat's Personal Website"
-keywords: "sachit, bhat, vanderbilt"
-favicon: "/img/letter-s.ico"
-
-################
-# Header layout #
-################
-
- # black-favicon: "/img/black-lab-glass.icon"
-
- # background-img: "../img/intro-bg.jpg"
-
+title: "Mira Baliga"
+favicon: "/img/faviconmint.png"
+description: "Mira Baliga's Personal Website"
+keywords: "mira, baliga"
 
 ##########
 # Header #
 ##########
 
 black-favicon: ""
-me-img: "/img/author.png"
+me-img: "/img/2016updated.png"
 
-background-type: "color-gradient"   # It can be either image, 3d-lines or color-gradient.
+background-type: "color-gradient"		# It can be either image, 3d-lines or color-gradient.
 
 # The following configurations are common for both color-gradient and 3d-lines.
 
-background-color-shuffle: True  # Keep shuffle True to get different background everytime.
-background-colors:  # You must add at least 4 colors.
+background-color-shuffle: True	# Keep shuffle True to get different background everytime.
+background-colors:	# You must add at least 4 colors.
   - color: "5F9EA0"
   - color: "4682B4"
   - color: "B0C4DE"
@@ -97,7 +84,6 @@ background-color-update-interval: 0.001
 
 # background-img: ""
 
-
 ##############################
 # Dynamic Text on the Header #
 ##############################
@@ -109,125 +95,99 @@ loop-count: False # Set False for infinite loop, or set any number for finite lo
 type-speed: 4
 start-delay: 500
 delete-delay: 2000
-lines: # You can add HTML Tags in the Text
-  - text: "Who am I?"
-  - text: "Sachit Bhat"
-  - text: "Programmer"
-  - text: "Innovator"
-  - text: "Pianist"
-  - text: "Sports Enthusiast"
-  - text: "Foodie"
-
-me-img: "https://github.com/SBhat35.png?size=500"
+lines: # You can add HTML tags in the Text
+  - text: "I AM..."
+  - text: "MIRA BALIGA:"
+  - text: "FEMINIST."
+  - text: "PROGRAMMER."
+  - text: "PHOTOGRAPHER."
+  - text: "SOCIAL ACTIVIST."
 
 ########
 # Blog #
 ########
-enable-gesture-navigation: True
 
 post-preview-words: 96
 
 paginate: 5
 
-email-share: True
 fb-share: True
 twitter-share: True
-linkedin-share: True
-reddit-share: False
+reddit-share: True
 google-plus-share: True
-tumblr-share: False
+linkedin-share: True
 pinterest-share: True
-pocket-share: True
 vkontakte-share: True
-
-
-disqus-shortname: "sachitbhat"
-
-syntax-highlight: True
-
-
-##############################
-# Color the browser elements #
-##############################
-
-color-browser: "#1000CC"
-apple-status-bar-style: "blue"
-
-################
-# Web app mode #
-################
-
-web-app-mode: False
-
-# Icons for Web App mode
-
-icon-36p: "/img/web-app/icon-36p.png"
-icon-48p: "/img/web-app/icon-48p.png"
-icon-72p: "/img/web-app/icon-72p.png"
-icon-96p: "/img/web-app/icon-96p.png"
-icon-144p: "/img/web-app/icon-144p.png"
-icon-192p: "/img/web-app/icon-192p.png"
-
+disqus-shortname: "mirabaliga"
 
 ############
 # Timeline #
 ############
 
 events:
-   - image: "/img/timeline/default.png"
-    organization: "Google"
-    date: "November 2017 - Present"
-    role: "Google Student Innovator: Google Cloud Platform"
-    desc1: "Educate Vanderbilt community of Google Cloud Platform applications and services through tech
-          talks and smaller sessions"
-    desc2: "Gain extensive understanding of GCP products with insight of user needs"
-    desc3: "Collabrolate remotely with other student innovators to create new learning strategies and enhance project initiatives"
-
-
- - image: "/img/timeline/ON.png"
-    organization: "Open Networking Lab"
-    date: "May 2017 - August 2017"
+  - image: "/img/timeline/pinterest.png"
+    organization: "Pinterest"
+    date: "Summer 2017"
     role: "Software Engineering Intern"
-    desc1: "Saving the neighborhood!"
-    desc2: "Add stuff sach"
-    desc3: "hello"
+    desc1: "~Redesigned user representation in search and profile feeds to increase user-to-user interaction"
+    desc2: "~Monitored changes via Pinterest’s internal analytics tool to see what metrics were changed"
+    desc3: "~Migrated a deprecated feature over to a modular, abstracted framework"
 
-  - image: "/img/timeline/vandyapps.png"
-    organization: "VandyApps"
-    date: "August 2016 - Present"
-    role: "Secretary"
-    desc1: "Saving the neighborhood!"
-    desc2: "Add stuff sach"
-    desc3: "hello"
+  - image: "/img/timeline/gwcumd.png"
+    organization: "Girls Who Code Club"
+    date: "2016-present"
+    role: "Teaching Assistant"
+    desc1: "~Serve as an assistant instructor for the Girls Who Code club at my university"
+    desc2: "~Serve as a mentor and supervisor for twenty middle/high school girls from the local area without previous programming experience"
+    desc3: "~Assist with curriculum development and supervise the students' final projects"
 
-  - image: "/img/timeline/vines.png"
-    organization: "Vanderbilt Innovation and Entrepreneurship Society"
-    date: "August 2017 - Present"
-    role: "Event Manager"
-    desc1: "Saving the neighborhood!"
-    desc2: "Add stuff sach"
-    desc3: "hello"
+  - image: "/img/timeline/equalsequals.png"
+    organization: "Equals Equals Hackathon"
+    date: "2016-present"
+    role: "Administrative Team Member"
+    desc1: "~Am part of a team planning a hackathon for under-represented racial minorities in computer science"
+    desc2: "~Develop sponsorship packages and corporate partnership deals for companies to donate to the organization"
+    desc3: "~Plan fundraising and outreach events for University of Maryland students and local high school students"
 
-  - image: "/img/timeline/IsisLogo 2.png"
-    organization: "Vanderbilt Institute for Software Integrated Systems"
-    date: "December 2016 - May 2017"
-    role: "Undergraduate Research Assistant"
-    desc1: "Saving the neighborhood!"
-    desc2: "Add stuff sach"
-    desc3: "hello"
+  - image: "/img/timeline/gtgtc.png"
+    organization: "Stanford Girls Teaching Girls To Code"
+    date: "2015-2016"
+    role: "Lead High School Liaison"
+    desc1: "~Worked with a small group of high school girls within the Stanford computer science organization 'Girls Teaching Girls to Code'"
+    desc2: "~Served as a bridge between the organization's officers and high school students"
+    desc3: "~Planned an Hour of Code (hackathon) event at a local high school for girls with no previous computer science experience"
+  
+  #- image: "/img/timeline/gwc.png"
+    #organization: "Girls Who Code"
+    #date: "2015"
+    #role: "Summer Immersion Pilot Program Participant"
+    #desc1: "~Was one of only 20 girls nationwide to participate in Summer Immersion Program 3, a 4 week pilot program targeted towards girls with previous computer science experience"
+    #desc2: "~Worked in a group of 5 girls to design and program an iPhone app using Swift, XCode, and Objective-C"
+    #desc3: "~The app, called Allot Expense Tracker, is available for free on the Apple App Store now"
+
+  #- image: "/img/timeline/aclu.png"
+    #organization: "American Civil Liberties Union"
+    #date: "2015"
+    #role: "Volunteer"
+    #desc1: "~Attended the ACLU's annual Conference and Lobby Day in Sacramento, CA and lobbied state Senators and Assemblymembers regarding upcoming legislation"
+    #desc2: "~Also volunteered at the ACLU's San Francisco office to compile information on police surveillance activities in northern Calfornia"
+
+  - image: "/img/timeline/blockleader.png"
+    organization: "Cupertino Block Leader Program"
+    date: "2014-2016"
+    role: "Volunteer Block Leader"
+    desc1: "~Appointed by the City of Cupertino to serve as a liaison between the government and Cupertino residents"
+    desc2: "~Was the contact point between the city and dozens of families in my neighborhood"
+    desc3: "~Collaborated with hundreds of other Cupertino residents to empower the community and educate residents about safety and preparedness"
 
 
+# First image of the Career timeline
 
+career-img: "/img/timeline/bwstraighthair.png"
 
-# First image of the Timeline
-
- timeline-img: "/img/timeline/Vanderbiltstar.png"
-
-
-
-##########
-# Skills #
-##########
+############
+#  Skills  #
+############
 
 skills:
   - software: "XCODE"
@@ -240,34 +200,14 @@ skills:
     language: "HTML"
   - software: "PHOTOSHOP"
     language: "CSS"
-  # - software/other: "Git"
-  #   language: "C++"
-  # - software/other: "Google Cloud Platform"
-  #   language: "Java"
-  # - software/other: "Xcode"
-  # language: "HTML, CSS, Javascript"
-  # language: "Swift (Working Proficiency)"
+
+
 
 ###########
 # Contact #
 ###########
 
-email: "sachit.s.bhat@vanderbilt.edu"
-
-
-
-
-################
-# Author Blurb #
-################
-
-# The author blurb goes underneath blog posts.
-# This works best when your author blurb image has a transparent background, or matches your site background color.
-
-# if the author_blurb is not set, then this feature is skipped
-# author_blurb: "As an undergraduate studying computer science and economics at Vanderbilt University, I have been exposed to many seemingly disparate topics and concepts, yet
-# have developed a passion for both cross-disciplinary fields. I love diving into the inner workings of large scale projects and services, and will continue to learn and grow as a thinker."
-# author_blurb_image: "/img/labtocat.png"
+email: "mira.baliga@gmail.com"
 
 ##################
 # Social Buttons #
@@ -275,40 +215,27 @@ email: "sachit.s.bhat@vanderbilt.edu"
 
 social:
   - title: "linkedin"
-    url: "https://linkedin.com/in/in/sachitbhat"
-  - title: "twitter"
-    url: "https://twitter.com/da_bhatman"
+    url: "https://linkedin.com/in/mirabaliga"
   - title: "github"
-    url: "https://github.com/SBhat35"
+    url: "https://github.com/mirabaliga"
+  - title: "twitter"
+    url: "https://twitter.com/mirabaliga"
   - title: "envelope-o"
-    url: "malito: sachit.s.bhat@vanderbilt.edu"
-
- 
-
-  
-
+    url: "mailto: mira.baliga@gmail.com"
+  - title: "apple"
+    url: "https://itunes.apple.com/us/developer/sunil-baliga/id1064650783"
 
 ############
 # 404 page #
 ############
 
-err-404-img: "/img/labtocat.png"
-
-##################
-# GPG on Keybase #
-##################
-
-# keybase-username: sachitbhat
-# keybase-in-social: True
-# keybase-in-footer: True
+#404-img: "/img/404motivationalcorgi.png"
 
 ################################################################################
 
-
-
 # Exclusion list from the generated _site
 
-exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
+exclude: ["LICENSE", "README", "CONTRIBUTORS", "scripts"]
 
 # Pagination path
 
@@ -319,6 +246,4 @@ paginate_path: "blog/page:num/"
 sass:
   style: compressed
 
-gems:
-  - jekyll-paginate
-  - jemoji
+gems: [jekyll-paginate]
