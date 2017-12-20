@@ -39,9 +39,9 @@ pages_list:
 author: "Sachit Bhat"
 lang: "en"
 title: "Sachit Bhat"
-description: "Personal Website of Sachit Bhat"
+description: "Sachit Bhat's Personal Website"
 keywords: "sachit, bhat, vanderbilt"
-favicon: "/img/favicon.ico"
+favicon: "/img/letter-s.ico"
 
 ################
 # Header layout #
@@ -57,7 +57,7 @@ favicon: "/img/favicon.ico"
 ##########
 
 black-favicon: ""
-me-img: "/img/2016updated.png"
+me-img: "/img/author.png"
 
 background-type: "color-gradient"   # It can be either image, 3d-lines or color-gradient.
 
@@ -157,7 +157,7 @@ apple-status-bar-style: "blue"
 # Web app mode #
 ################
 
-web-app-mode: True
+web-app-mode: False
 
 # Icons for Web App mode
 
@@ -240,13 +240,13 @@ skills:
     language: "HTML"
   - software: "PHOTOSHOP"
     language: "CSS"
-  - software/other: "Git"
-    language: "C++"
-  - software/other: "Google Cloud Platform"
-    language: "Java"
-  - software/other: "Xcode"
-  language: "HTML, CSS, Javascript"
-  language: "Swift (Working Proficiency)"
+  # - software/other: "Git"
+  #   language: "C++"
+  # - software/other: "Google Cloud Platform"
+  #   language: "Java"
+  # - software/other: "Xcode"
+  # language: "HTML, CSS, Javascript"
+  # language: "Swift (Working Proficiency)"
 
 ###########
 # Contact #
