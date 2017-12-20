@@ -1,7 +1,7 @@
 
 # Site settings
 
-url: "https://mirabaliga.github.io"
+url: "https://SBhat35.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -12,7 +12,7 @@ baseurl:
 
 # Google tracking id to track your visitors
 
-google-tracking-id: "UA-74057702-1"
+google-tracking-id: "UA-111421888-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -32,19 +32,19 @@ pages_list:
 # HTML Head #
 #############
 
-author: "Mira Baliga"
+author: "Sachit Bhat"
 lang: "en"
-title: "Mira Baliga"
-favicon: "/img/faviconmint.png"
-description: "Mira Baliga's Personal Website"
-keywords: "mira, baliga"
+title: "Sachit Bhat"
+description: "Sachit Bhat's Personal Website"
+keywords: "sachit, bhat, vanderbilt"
+favicon: "/img/letter-s.ico"
 
 ##########
 # Header #
 ##########
 
 black-favicon: ""
-me-img: "/img/2016updated.png"
+me-img: "/img/.png"
 
 background-type: "color-gradient"		# It can be either image, 3d-lines or color-gradient.
 
