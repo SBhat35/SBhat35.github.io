@@ -52,25 +52,25 @@ background-type: "color-gradient"		# It can be either image, 3d-lines or color-g
 
 background-color-shuffle: True	# Keep shuffle True to get different background everytime.
 background-colors:	# You must add at least 4 colors.
-  - color: "3058d1"
-  - color: "0505c1"
-  - color: "341c82"
-  - color: "6034ef"
+  - color: "1021d3"
+  - color: "0707b7"
+  - color: "071482"
+  - color: "070c3a"
 
-  - color: "4d2ba5"
-  - color: "441f93"
-  - color: "6626af"
-  - color: "8b50c9"
+  - color: "391577"
+  - color: "3f0f91"
+  - color: "5717c4"
+  - color: "773ed8"
   
-  - color: "3d6acc"
-  - color: "2171bc"
-  - color: "53a5d1"
-  - color: "7ecdf7"
+  - color: "315bd8"
+  - color: "3989dd"
+  - color: "3989dd"
+  - color: "3989dd"
   
-  - color: "6a59c1"
-  - color: "8259c1"
-  - color: "8131b2"
-  - color: "3928cc"
+  - color: "5bcbea"
+  - color: "1391c6"
+  - color: "126cc6"
+  - color: "1120c4"
 
 background-color-trasition-speed: 0.001
 background-color-update-interval: 0.001
