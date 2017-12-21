@@ -44,7 +44,7 @@ favicon: "/img/letter-s.ico"
 ##########
 
 black-favicon: ""
-me-img: "/img/.png"
+me-img: "/img/Prof.png"
 
 background-type: "color-gradient"		# It can be either image, 3d-lines or color-gradient.
 
@@ -143,7 +143,7 @@ events:
     desc2: "Implemented unit and integration tests on partioned mapping of ONOS controller"
     desc3: "Optimized cluster communication protocols on ONOS' distributed core"
 
-  - image: "/img/timeline/vandyapps.png"
+  - image: "/img/timeline/vapps3.png"
     organization: "VandyApps"
     date: "August 2016 - Present"
     role: "Secretary"
@@ -159,7 +159,7 @@ events:
     desc2: "Budget, plan, and execute developmental programs of innovative endeavors"
     desc3: "Serve on executive board to enhance overall club structure and strategy"
   
-  - image: "/img/timeline/isis_logo2.png"
+  - image: "/img/timeline/ISISLOGO 2.png"
     organization: "Vanderbilt Institute for Software Integrated Systems"
     date: "December 2016 - May 2017"
     role: "Undergraduate Research Assistant"
@@ -180,7 +180,7 @@ skills:
   - software: "Git"
     language: "C++"
   - software: "Google Cloud Platform"
-    language: "C++"
+    language: "Java"
   - software: "XCODE"
     language: "ARM Assembly"
     language: "Swift (Working Proficiency)"
