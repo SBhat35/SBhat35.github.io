@@ -133,7 +133,7 @@ events:
     organization: "Google"
     date: "November 2017 - Present"
     role: "Google Student Innovator: Google Cloud Platform"
-    desc1: "Educate Vanderbilt community of Google Cloud Platform applications and services through tech
+    desc1: "Educate Vanderbilt community on Google Cloud Platform applications and services through tech
           talks and smaller sessions"
     desc2: "Gain extensive understanding of GCP products with insight of user needs"
     desc3: "Collabrolate remotely with other student innovators to create new learning strategies and enhance project initiatives"
@@ -142,9 +142,9 @@ events:
     organization: "Open Networking Lab"
     date: "May 2017 - August 2017"
     role: "Software Engineering Intern"
-    desc1: "Worked on ONOS, the operating system that runs on the controller for a software defined network"
+    desc1: "Worked on ONOS, which provides the control plane for a software-defined network (SDN)"
     desc2: "Implemented unit and integration tests on partioned mapping of ONOS controller"
-    desc3: "Optimized cluster communication protocols on ONOS' distributed core"
+    desc3: "Optimized cluster communication protocols on ONOS distributed core"
 
   - image: "/img/timeline/vappsupdated.png"
     organization: "VandyApps"
@@ -157,12 +157,12 @@ events:
   - image: "/img/timeline/vines.png"
     organization: "Vanderbilt Innovation and Entrepreneurship Society"
     date: "December 2016- Present"
-    role: "Events Manager"
-    desc1: "Manage large programs and general body meetings to foster entrepreneurial spirit within Vanderbilt community"
+    role: "Event Manager"
+    desc1: "Manage VINES external programs and general body meetings to foster entrepreneurial spirit within Vanderbilt community"
     desc2: "Budget, plan, and execute developmental programs of innovative endeavors"
     desc3: "Serve on executive board to enhance overall club structure and strategy"
   
-  - image: "/img/timeline/isis_logo2.png"
+  - image: "/img/timeline/Google.png"
     organization: "Vanderbilt Institute for Software Integrated Systems"
     date: "December 2016 - May 2017"
     role: "Undergraduate Research Assistant"
