@@ -52,25 +52,25 @@ background-type: "color-gradient"		# It can be either image, 3d-lines or color-g
 
 background-color-shuffle: True	# Keep shuffle True to get different background everytime.
 background-colors:	# You must add at least 4 colors.
-  - color: "5F9EA0"
-  - color: "4682B4"
-  - color: "B0C4DE"
-  - color: "ADD8E6"
+  - color: "3058d1"
+  - color: "0505c1"
+  - color: "2a5fd3"
+  - color: "1f4a68"
 
-  - color: "B0E0E6"
-  - color: "87CEFA"
-  - color: "87CEEB"
-  - color: "6495ED"
+  - color: "4dcee2"
+  - color: "3785b2"
+  - color: "3f9694"
+  - color: "419cf2"
   
-  - color: "00BFFF"
-  - color: "1E90FF"
-  - color: "4169E1"
-  - color: "0000FF"
+  - color: "40f1da"
+  - color: "18a8b2"
+  - color: "1781b2"
+  - color: "59b7c1"
   
-  - color: "0000CD"
-  - color: "00008B"
-  - color: "000080"
-  - color: "191970"
+  - color: "6a59c1"
+  - color: "8259c1"
+  - color: "8131b2"
+  - color: "3928cc"
 
 background-color-trasition-speed: 0.001
 background-color-update-interval: 0.001
@@ -162,7 +162,7 @@ events:
     desc2: "Budget, plan, and execute developmental programs of innovative endeavors"
     desc3: "Serve on executive board to enhance overall club structure and strategy"
   
-  - image: "/img/timeline/isisupdated.png"
+  - image: "/img/timeline/isiscrop.png"
     organization: "Vanderbilt Institute for Software Integrated Systems"
     date: "December 2016 - May 2017"
     role: "Undergraduate Research Assistant"
