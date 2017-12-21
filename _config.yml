@@ -54,18 +54,18 @@ background-color-shuffle: True	# Keep shuffle True to get different background e
 background-colors:	# You must add at least 4 colors.
   - color: "3058d1"
   - color: "0505c1"
-  - color: "2a5fd3"
-  - color: "1f4a68"
+  - color: "341c82"
+  - color: "6034ef"
 
-  - color: "4dcee2"
-  - color: "3785b2"
-  - color: "3f9694"
-  - color: "419cf2"
+  - color: "4d2ba5"
+  - color: "441f93"
+  - color: "6626af"
+  - color: "8b50c9"
   
-  - color: "40f1da"
-  - color: "18a8b2"
-  - color: "1781b2"
-  - color: "59b7c1"
+  - color: "3d6acc"
+  - color: "2171bc"
+  - color: "53a5d1"
+  - color: "7ecdf7"
   
   - color: "6a59c1"
   - color: "8259c1"
