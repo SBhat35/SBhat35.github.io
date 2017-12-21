@@ -139,7 +139,7 @@ events:
     desc3: "Collabrolate remotely with other student innovators to create new learning strategies and enhance project initiatives"
 
   - image: "/img/timeline/ON.png"
-    organization: "Open Networking Lab"
+    organization: "Open Networking Foundation"
     date: "May 2017 - August 2017"
     role: "Software Engineering Intern"
     desc1: "Worked on ONOS, which provides the control plane for a software-defined network (SDN)"
