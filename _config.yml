@@ -37,14 +37,14 @@ lang: "en"
 title: "Sachit Bhat"
 description: "Sachit Bhat's Personal Website"
 keywords: "sachit, bhat, vanderbilt"
-favicon: "/img/letter-s.ico"
+favicon: "/img/letter.ico"
 
 ##########
 # Header #
 ##########
 
-black-favicon: ""
-me-img: "/img/newprog.png"
+# black-favicon: ""
+# me-img: "/img/newprog.png"
 
 background-type: "color-gradient"		# It can be either image, 3d-lines or color-gradient.
 
@@ -103,6 +103,9 @@ lines: # You can add HTML tags in the Text
   - text: "Pianist"
   - text: "Sports Enthusiast"
   - text: "Foodie"
+
+me-img: "https://github.com/SBhat35.png?size=500"
+
 
 ########
 # Blog #
