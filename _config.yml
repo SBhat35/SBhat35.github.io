@@ -146,7 +146,7 @@ events:
     desc2: "Implemented unit and integration tests on partioned mapping of ONOS controller"
     desc3: "Optimized cluster communication protocols on ONOS' distributed core"
 
-  - image: "/img/timeline/vapps3.png"
+  - image: "/img/timeline/vappsupdated.png"
     organization: "VandyApps"
     date: "August 2016 - Present"
     role: "Secretary"
@@ -162,7 +162,7 @@ events:
     desc2: "Budget, plan, and execute developmental programs of innovative endeavors"
     desc3: "Serve on executive board to enhance overall club structure and strategy"
   
-  - image: "/img/timeline/isis2.png"
+  - image: "/img/timeline/isisupdated.png"
     organization: "Vanderbilt Institute for Software Integrated Systems"
     date: "December 2016 - May 2017"
     role: "Undergraduate Research Assistant"
