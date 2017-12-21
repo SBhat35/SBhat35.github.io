@@ -44,7 +44,7 @@ favicon: "/img/letter-s.ico"
 ##########
 
 black-favicon: ""
-me-img: "/img/Prof.png"
+me-img: "/img/newprog.png"
 
 background-type: "color-gradient"		# It can be either image, 3d-lines or color-gradient.
 
@@ -213,7 +213,7 @@ social:
 # 404 page #
 ############
 
-404-img: "/img/404motivationalcorgi.png"
+404-img: "/img/404error.png"
 
 ################################################################################
 
