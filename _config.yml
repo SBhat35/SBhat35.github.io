@@ -96,12 +96,13 @@ type-speed: 4
 start-delay: 500
 delete-delay: 2000
 lines: # You can add HTML tags in the Text
-  - text: "I AM..."
-  - text: "MIRA BALIGA:"
-  - text: "FEMINIST."
-  - text: "PROGRAMMER."
-  - text: "PHOTOGRAPHER."
-  - text: "SOCIAL ACTIVIST."
+  - text: "Who am I?"
+  - text: "Sachit Bhat:"
+  - text: "Programmer"
+  - text: "Innovator"
+  - text: "Pianist"
+  - text: "Sports Enthusiast"
+  - text: "Foodie"
 
 ########
 # Blog #
@@ -118,88 +119,72 @@ google-plus-share: True
 linkedin-share: True
 pinterest-share: True
 vkontakte-share: True
-disqus-shortname: "mirabaliga"
+disqus-shortname: "sachitbhat"
 
 ############
 # Timeline #
 ############
 
 events:
-  - image: "/img/timeline/pinterest.png"
-    organization: "Pinterest"
-    date: "Summer 2017"
+  - image: "/img/timeline/Google.png"
+    organization: "Google"
+    date: "November 2017 - Present"
+    role: "Google Student Innovator: Google Cloud Platform"
+    desc1: "Educate Vanderbilt community of Google Cloud Platform applications and services through tech
+          talks and smaller sessions"
+    desc2: "Gain extensive understanding of GCP products with insight of user needs"
+    desc3: "Collabrolate remotely with other student innovators to create new learning strategies and enhance project initiatives"
+
+  - image: "/img/timeline/ON.png"
+    organization: "Open Networking Lab"
+    date: "May 2017 - August 2017"
     role: "Software Engineering Intern"
-    desc1: "~Redesigned user representation in search and profile feeds to increase user-to-user interaction"
-    desc2: "~Monitored changes via Pinterest’s internal analytics tool to see what metrics were changed"
-    desc3: "~Migrated a deprecated feature over to a modular, abstracted framework"
+    desc1: "Worked on ONOS, the operating system that runs on the controller for a software defined network"
+    desc2: "Implemented unit and integration tests on partioned mapping of ONOS controller"
+    desc3: "Optimized cluster communication protocols on ONOS' distributed core"
 
-  - image: "/img/timeline/gwcumd.png"
-    organization: "Girls Who Code Club"
-    date: "2016-present"
-    role: "Teaching Assistant"
-    desc1: "~Serve as an assistant instructor for the Girls Who Code club at my university"
-    desc2: "~Serve as a mentor and supervisor for twenty middle/high school girls from the local area without previous programming experience"
-    desc3: "~Assist with curriculum development and supervise the students' final projects"
+  - image: "/img/timeline/vandyapps.png"
+    organization: "VandyApps"
+    date: "August 2016 - Present"
+    role: "Secretary"
+    desc1: "Direct internal logistics, event management, and community outreach for Vanderbilt's largest computer science club"
+    desc2: "Attend weekly meetings to teach new technologies and enhance software development skills"
+    # desc3: "~Plan fundraising and outreach events for University of Maryland students and local high school students"
 
-  - image: "/img/timeline/equalsequals.png"
-    organization: "Equals Equals Hackathon"
-    date: "2016-present"
-    role: "Administrative Team Member"
-    desc1: "~Am part of a team planning a hackathon for under-represented racial minorities in computer science"
-    desc2: "~Develop sponsorship packages and corporate partnership deals for companies to donate to the organization"
-    desc3: "~Plan fundraising and outreach events for University of Maryland students and local high school students"
-
-  - image: "/img/timeline/gtgtc.png"
-    organization: "Stanford Girls Teaching Girls To Code"
-    date: "2015-2016"
-    role: "Lead High School Liaison"
-    desc1: "~Worked with a small group of high school girls within the Stanford computer science organization 'Girls Teaching Girls to Code'"
-    desc2: "~Served as a bridge between the organization's officers and high school students"
-    desc3: "~Planned an Hour of Code (hackathon) event at a local high school for girls with no previous computer science experience"
+  - image: "/img/timeline/vines.png"
+    organization: "Vanderbilt Innovation and Entrepreneurship Society"
+    date: "December 2016- Present"
+    role: "Events Manager"
+    desc1: "Manage large programs and general body meetings to foster entrepreneurial spirit within Vanderbilt community"
+    desc2: "Budget, plan, and execute developmental programs of innovative endeavors"
+    desc3: "Serve on executive board to enhance overall club structure and strategy"
   
-  #- image: "/img/timeline/gwc.png"
-    #organization: "Girls Who Code"
-    #date: "2015"
-    #role: "Summer Immersion Pilot Program Participant"
-    #desc1: "~Was one of only 20 girls nationwide to participate in Summer Immersion Program 3, a 4 week pilot program targeted towards girls with previous computer science experience"
-    #desc2: "~Worked in a group of 5 girls to design and program an iPhone app using Swift, XCode, and Objective-C"
-    #desc3: "~The app, called Allot Expense Tracker, is available for free on the Apple App Store now"
-
-  #- image: "/img/timeline/aclu.png"
-    #organization: "American Civil Liberties Union"
-    #date: "2015"
-    #role: "Volunteer"
-    #desc1: "~Attended the ACLU's annual Conference and Lobby Day in Sacramento, CA and lobbied state Senators and Assemblymembers regarding upcoming legislation"
-    #desc2: "~Also volunteered at the ACLU's San Francisco office to compile information on police surveillance activities in northern Calfornia"
-
-  - image: "/img/timeline/blockleader.png"
-    organization: "Cupertino Block Leader Program"
-    date: "2014-2016"
-    role: "Volunteer Block Leader"
-    desc1: "~Appointed by the City of Cupertino to serve as a liaison between the government and Cupertino residents"
-    desc2: "~Was the contact point between the city and dozens of families in my neighborhood"
-    desc3: "~Collaborated with hundreds of other Cupertino residents to empower the community and educate residents about safety and preparedness"
+  - image: "/img/timeline/isis_logo2.png"
+    organization: "Vanderbilt Institute for Software Integrated Systems"
+    date: "December 2016 - May 2017"
+    role: "Undergraduate Research Assistant"
+    desc1: "Developed crowdsourcing web application analyze user data under guidance of Professor Yeygeniy Vorobeychik"
+    desc2: "Modeled experiments using HTML, CSS JavaScript on Meteor Web framework"
+    desc3: "Implemented back-end on MongoDB"
 
 
 # First image of the Career timeline
 
-career-img: "/img/timeline/bwstraighthair.png"
+career-img: "/img/timeline/Vanderbiltstar.png"
 
 ############
 #  Skills  #
 ############
 
 skills:
+  - software: "Git"
+    language: "C++"
+  - software: "Google Cloud Platform"
+    language: "C++"
   - software: "XCODE"
-    language: "JAVA"
-  - software: "UNITY"
-    language: "SWIFT"
-  - software: "MAYA"
-    language: "PYTHON"
-  - software: "ANDROID STUDIO"
-    language: "HTML"
-  - software: "PHOTOSHOP"
-    language: "CSS"
+    language: "ARM Assembly"
+    language: "Swift (Working Proficiency)"
+
 
 
 
@@ -207,7 +192,7 @@ skills:
 # Contact #
 ###########
 
-email: "mira.baliga@gmail.com"
+email: "sachit.s.bhat@vanderbilt.edu"
 
 ##################
 # Social Buttons #
@@ -215,21 +200,20 @@ email: "mira.baliga@gmail.com"
 
 social:
   - title: "linkedin"
-    url: "https://linkedin.com/in/mirabaliga"
+    url: "https://linkedin.com/in/sachitbhat"
   - title: "github"
-    url: "https://github.com/mirabaliga"
+    url: "https://github.com/SBhat35"
   - title: "twitter"
-    url: "https://twitter.com/mirabaliga"
+    url: "https://twitter.com/da_bhatman"
   - title: "envelope-o"
-    url: "mailto: mira.baliga@gmail.com"
-  - title: "apple"
-    url: "https://itunes.apple.com/us/developer/sunil-baliga/id1064650783"
+    url: "mailto: sachit.s.bhat@vanderbilt.edu"
+
 
 ############
 # 404 page #
 ############
 
-#404-img: "/img/404motivationalcorgi.png"
+404-img: "/img/404motivationalcorgi.png"
 
 ################################################################################
 
