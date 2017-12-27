@@ -142,7 +142,7 @@ events:
     organization: "Open Networking Foundation"
     date: "May 2017 - August 2017"
     role: "Software Engineering Intern"
-    desc1: "Worked on ONOS, which works on the controller for a software-defined network (SDN)"
+    desc1: "Worked on ONOS, the controller platform for a software-defined network (SDN)"
     desc2: "Implemented unit and integration tests on partioned mapping of ONOS controller"
     desc3: "Optimized cluster communication protocols on ONOS distributed core"
     desc4: "Technoligies utilized: Java, Maven, Buck, Protobuf, JUnit"
